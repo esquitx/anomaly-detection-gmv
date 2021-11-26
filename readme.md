@@ -24,12 +24,12 @@ Most of the project was inspired in the the AdneneBoumessouer/MVTec-Anomaly-Dete
 ## Sample use
 
 ### train.py
-'''
+```
 python3 train.py -d (dir_datos) -t normal -l (mssim)
-'''
+```
 
 ### test.py
-'''
+```
 python3 test.py -d modelos_guardados/normal/mssim/18-11-2021-21-13-50
-'''
+```
 
